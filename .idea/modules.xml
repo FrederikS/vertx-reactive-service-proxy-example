@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vertx-reactive-service-proxy.iml" filepath="$PROJECT_DIR$/.idea/modules/vertx-reactive-service-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vertx-reactive-service-proxy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/vertx-reactive-service-proxy_main.iml" group="vertx-reactive-service-proxy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vertx-reactive-service-proxy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/vertx-reactive-service-proxy_test.iml" group="vertx-reactive-service-proxy" />
+    </modules>
+  </component>
+</project>
